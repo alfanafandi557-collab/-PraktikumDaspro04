@@ -34,4 +34,6 @@ public class StudiKasus204 {
                 System.out.println("Status : Dana penghargaan tidak diberikan karena belum berhasil meraih Juara 1, 2, atau 3.");
             }
 
-        
+            }
+        }
+    }
