@@ -34,8 +34,7 @@ public class StudiKasus204 {
                 System.out.println("Status : Dana penghargaan tidak diberikan karena belum berhasil meraih Juara 1, 2, atau 3.");
             }
 
-            }
-          } else if (jenisKegiatan.equalsIgnoreCase("PKM")) {
+        } else if (jenisKegiatan.equalsIgnoreCase("PKM")) {
             
   
             System.out.print("Jumlah dokumen : ");
@@ -64,3 +63,4 @@ public class StudiKasus204 {
 
         sc.close();
     }
+}
